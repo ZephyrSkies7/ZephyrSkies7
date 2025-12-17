@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZephyrSkies7&theme=ambient_gradient&show_icons=true&hide_rank=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/beyond-all-reason/Beyond-All-Reason))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZephyrSkies7&theme=ambient_gradient&show_icons=true&hide_rank=true)](https://github.com/beyond-all-reason/Beyond-All-Reason)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyond-all-reason&repo=Beyond-All-Reason&theme=ambient_gradient&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
