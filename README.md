@@ -8,4 +8,4 @@ In 2025, I was assigned as the Project and Directing Manager for BAR's Art Depar
 
 In 2026, I began working as a 3D designer with Splitscreen Games on their award-winning sci-fi MMORPG, Pirate Galaxy, where I continue to develop my skills.
 
-For my professional career, I work for a major retailer as a senior business analyst and data engineer.
+For my professional career, I work as a senior business analyst and data engineer for a major retailer.
