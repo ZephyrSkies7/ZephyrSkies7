@@ -4,7 +4,7 @@ I'm a 3D artist who excels at hard-surface modelling with competency in both low
 
 In 2024, I began learning 3D modelling, and eventually became a lead 3D designer for the open-source RTS, Beyond All Reason.
 
-In 2025, I was assigned as the Project and Directing Manager for BAR's Art Department.
+In 2025, I was assigned as the Project and Managing Director for BAR's Art Department.
 
 In 2026, I began working as a 3D designer with Splitscreen Games on their award-winning sci-fi MMORPG, Pirate Galaxy, where I continue to develop my skills.
 
